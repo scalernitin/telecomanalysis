@@ -1,7 +1,7 @@
 [project]
 name = "agentic-ai-crash-course"
 version = "0.1.0"
-description = "Agentic AI dependency"
+description = "Agentic AI dependency project"
 readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
